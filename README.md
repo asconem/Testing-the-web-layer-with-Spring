@@ -1,0 +1,1 @@
+Builds a simple Spring application and test it with JUnit. Uses Spring Test and Spring Boot features to test the interactions between Spring and the code. Tests that the application context loads successfully, and then tests only the web layer by using Spring’s MockMvc.
